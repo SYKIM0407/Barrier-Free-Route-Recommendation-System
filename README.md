@@ -7,23 +7,17 @@ This project recommends accessible pedestrian routes around Sungkyunkwan Univers
 
 Key Features
 
-16 × 16 grid-based environment representation
+- 16 × 16 grid-based environment representation
 
-Weighted shortest-path calculation
+- Weighted shortest-path calculation
 
-Three routing modes: safety-focused, low-slope, and balanced
+- Three routing modes: safety-focused, low-slope, and balanced
 
-Route adjustments based on temporary road restrictions
+- Route adjustments based on temporary road restrictions
 
 Technologies
 
-C
-
-2D Arrays
-
-Structures
-
-Weighted Shortest-Path Algorithm
+C, 2D Arrays. Structures, Weighted Shortest-Path Algorithm
 
 My Contribution
 
