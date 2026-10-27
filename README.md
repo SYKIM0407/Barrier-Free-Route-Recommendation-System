@@ -1,11 +1,11 @@
 # Barrier-Free-Route-Recommendation-System
 A C-based route recommendation system developed as a Data Structures course project at Sungkyunkwan University.
 
-Overview
+## Overview
 
 This project recommends accessible pedestrian routes around Sungkyunkwan University by considering environmental factors such as slope, safety risks, obstacles, and walkway width.
 
-Key Features
+## Key Features
 
 - 16 × 16 grid-based environment representation
 
@@ -15,11 +15,11 @@ Key Features
 
 - Route adjustments based on temporary road restrictions
 
-Technologies
+## Technologies
 
 C, 2D Arrays. Structures, Weighted Shortest-Path Algorithm
 
-My Contribution
+## My Contribution
 
 Role: Algorithm Developer
 
